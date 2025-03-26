@@ -7,7 +7,7 @@ BaseballTask9
 4. 기능
 - 3자리 랜덤 숫자 생성
   - 중복 없는 1~9 범위의 숫자 3개를 섞어서 생성합니다.
-    -UGameHelper::GenerateRandomNumber() 사용.
+    - UGameHelper::GenerateRandomNumber() 사용.
   -스트라이크/볼/아웃 판정
     -플레이어 입력(Guess)과 정답(Answer)을 비교하여,
       -3 스트라이크면 ‘정답’
